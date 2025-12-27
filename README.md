@@ -9,7 +9,18 @@ I enjoy learning by building real projects and aim to grow into a professional s
 
 ## 🌟 Featured Projects
 
-### 🔹 Currency Converter
+### 🔗 [To-Do App](https://github.com/Prayag077/To-Do-App)
+A task management application to organize daily activities efficiently.
+
+**Technologies:** JavaScript, HTML, CSS  
+**Features:**
+- Add, edit, and delete tasks
+- Simple and clean UI
+- Improves productivity and task tracking
+
+---
+
+### 🔗 [Currency Converter](https://github.com/Prayag077/Currency-Converter)
 A JavaScript-based application that converts currency values using real-time exchange rates.
 
 **Technologies:** JavaScript, HTML, CSS  
@@ -20,18 +31,7 @@ A JavaScript-based application that converts currency values using real-time exc
 
 ---
 
-### 🔹 QR Code Generator
-A web application that generates QR codes instantly based on user input.
-
-**Technologies:** JavaScript, CSS  
-**Features:**
-- Generate QR codes dynamically
-- Simple and fast user experience
-- Useful for links and text sharing
-
----
-
-### 🔹 Quiz App
+### 🔗 [Quiz App](https://github.com/Prayag077/Quiz-App)
 An interactive quiz application to test user knowledge.
 
 **Technologies:** JavaScript  
@@ -42,19 +42,19 @@ An interactive quiz application to test user knowledge.
 
 ---
 
-### 🔹 Rock Paper Scissors
-A classic Rock Paper Scissors game built using JavaScript.
+### 🔗 [QR Code Generator](https://github.com/Prayag077/QR-Code-Generator-js)
+A web application that generates QR codes instantly based on user input.
 
-**Technologies:** JavaScript  
+**Technologies:** JavaScript, CSS  
 **Features:**
-- Interactive gameplay
-- Instant result feedback
-- Clean and simple design
+- Generate QR codes dynamically
+- Fast and easy to use
+- Useful for links and text sharing
 
 ---
 
-### 🔹 Tic Tac Toe
-A browser-based Tic Tac Toe game focusing on logic building.
+### 🔗 [Tic Tac Toe](https://github.com/Prayag077/TicTacToe)
+A browser-based Tic Tac Toe game focused on logic building.
 
 **Technologies:** JavaScript  
 **Features:**
@@ -64,15 +64,14 @@ A browser-based Tic Tac Toe game focusing on logic building.
 
 ---
 
-### 🔹 To-Do App
-A task management application to help users organize daily tasks.
+### 🔗 [Rock Paper Scissors](https://github.com/Prayag077/RockPaperScissors)
+A classic Rock Paper Scissors game built using JavaScript.
 
 **Technologies:** JavaScript  
 **Features:**
-- Add, edit, and delete tasks
-- Clean UI
-- Improves productivity and task tracking
-
+- Interactive gameplay
+- Instant result feedback
+- Clean and simple design
 ---
 
 ## 🚀 Skills
