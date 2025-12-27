@@ -42,7 +42,7 @@ An interactive quiz application to test user knowledge.
 
 ---
 
-### 🔗 [QR Code Generator](https://github.com/Prayag077/QR-Code-Generator-js)
+### 🔗 [QR Code Generator](https://github.com/Prayag077/QR-Code-Genrator-js)
 A web application that generates QR codes instantly based on user input.
 
 **Technologies:** JavaScript, CSS  
