@@ -105,7 +105,6 @@ A task management application to help users organize daily tasks.
 - Writing clean and maintainable code  
 - Building real-world projects  
 - Learning industry-level best practices  
-- Preparing for internships and entry-level developer roles  
 
 ---
 
