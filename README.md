@@ -117,11 +117,5 @@ A task management application to help users organize daily tasks.
 
 ---
 
-## 📊 GitHub Stats
-
-![Prayag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prayag077&show_icons=true&theme=dark)
-
----
-
 Feel free to explore my repositories, fork projects, or share feedback.  
 If you find something useful, don’t forget to ⭐️ the repository 😊
